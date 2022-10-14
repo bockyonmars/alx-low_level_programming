@@ -6,6 +6,7 @@
  * main - Entry point
  *
  * Return: returns 0 when everything works
+ *
  */
 
 int main(void)
