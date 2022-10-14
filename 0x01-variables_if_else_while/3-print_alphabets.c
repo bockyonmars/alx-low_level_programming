@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 /**
+ *
  * main - Entry point
  *
- * Return: returns 0 when everything works
+ * Return: returns 0 when everything works fine
  *
  */
 
-int main)void)
+int main(void)
 {
 	int n;
 
@@ -15,6 +16,6 @@ int main)void)
 		putchar(n);
 	for (n = 65; n <= 90; ++n)
 		putchar(n);
-	putchar(10)
+	putchar(10);
 	return (0);
 }
