@@ -8,7 +8,6 @@
  * Return: returns 0 when everything works
  *
  */
-
 int main(void)
 {
 	int n;
