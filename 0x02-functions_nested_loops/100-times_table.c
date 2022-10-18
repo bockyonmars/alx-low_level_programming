@@ -9,7 +9,7 @@
  *
  */
 
-void print_times_table(int n)
+void times_table(int n)
 {
 	int a, b, op;
 
@@ -24,7 +24,7 @@ void print_times_table(int n)
 				_putchar(44);
 				_putchar(32);
 				if (op <= 9)
-				{
+			}
 					else if (op <= 99)
 					{
 					_putchar(32);

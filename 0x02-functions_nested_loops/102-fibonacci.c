@@ -19,7 +19,7 @@ int main(void)
 
 	for (i = 0; i < l; i++)
 	{
-		if ( i == 49)
+		if (i == 49)
 		{
 			printf("%lu", n1);
 		}
