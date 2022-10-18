@@ -3,7 +3,7 @@
 /**
  * _isalpha - returns 1 if c is a letter, where lowercase or uppercase
  *
- *R @c: Int to print
+ *@c: Int to print
  *
  * Return: returns 0 (success)
  */
