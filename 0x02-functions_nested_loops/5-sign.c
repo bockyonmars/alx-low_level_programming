@@ -1,4 +1,5 @@
 #include "main.h"
+#include <limits.h>
 
 /**
  * print_sign - returns 0 letter not lowercase, 1 letter lowercase
