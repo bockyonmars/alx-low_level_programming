@@ -3,8 +3,6 @@
 /**
  * main - returns string length
  *
- * @num: operand number
- *
  * Return: returns 0 (success)
  */
 
