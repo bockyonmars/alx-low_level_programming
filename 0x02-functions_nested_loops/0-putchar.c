@@ -3,9 +3,10 @@
 /**
  * main - Entry point
  *
- * Return: returs 0 (success)
+ * Return: returns 0 (success)
  *
  */
+
 int main(void)
 {
 	_putchar('_');
@@ -17,6 +18,5 @@ int main(void)
 	_putchar('a');
 	_putchar('r');
 	_putchar('\n');
-
 	return (0);
 }
