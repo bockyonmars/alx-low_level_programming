@@ -6,7 +6,7 @@
  * @t: string to set
  */
 
-void set_string(char **g, char *t*)
+void set_string(char **g, char *t)
 {
 	*g = t;
 }
